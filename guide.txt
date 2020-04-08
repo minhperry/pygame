@@ -1,0 +1,6 @@
+each player currently have 5 ability:
+1. deals randomly 11-20 dmg on the other -> attack()
+2. heals 15hp -> heal()
+3. has 30% chance to drain 20% enemy's current hp -> drain()
+4. consume randomly 10-25 hp and deals double that amount on enemy -> critical()
+5. both loses randomly 15-35hp -> kill()
